@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Management System — Libra
 
 A beginner-friendly full-stack library management web application built with Python, Flask, SQLite, HTML, CSS, and vanilla JavaScript.
@@ -148,3 +149,6 @@ For production, also review backups, access controls, HTTPS, CSRF protection, lo
 This is an educational project, not a security-audited production system. Before exposing it publicly, add CSRF tokens to all state-changing forms, rate-limit login attempts, review role permissions, configure a unique strong `SECRET_KEY`, enforce HTTPS, set secure cookies, and plan encrypted backups. Audit entries record route metadata only, not form values. Keep debug mode disabled in deployment.
 
 Fine rate and loan duration are simple policy constants in `backend/services.py`. Email reminders, password reset, barcode scanning and automated reservation notifications are not implemented in this edition.
+=======
+# library_management_system
+>>>>>>> origin/main
